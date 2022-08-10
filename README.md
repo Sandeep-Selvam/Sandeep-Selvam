@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Applied Data Science**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, Java**
 
-- 📫 How to reach me **sandeep8o2k@gmail.com**
+- 📫 How to reach me **sandeep.sandp2000@gmail.com**
 
 - Certified Applied Data Science https://www.credly.com/badges/94912802-86ed-484c-9907-65085f81c905/public_url
 
